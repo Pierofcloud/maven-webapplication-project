@@ -5,7 +5,7 @@
 	<groupId>com.kk</groupId>
 	<artifactId>maven-web-application-kkfunda</artifactId>
 	<packaging>war</packaging>
-	<version>1.0.0</version>
+	<version>0.0.2-SNAPSHOT</version>
 	
 	<name>maven-web-application</name>
 
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://100.27.205.196:8081/repository/telus-release/</url>
+	      <url>http://34.239.247.49/:8081/repository/telus-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://100.27.205.196:8081/repository/telus-snapshot/</url>
+	      <url>http://34.239.247.49:8081/repository/telus-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
