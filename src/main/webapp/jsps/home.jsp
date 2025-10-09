@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 Welcome to KK FUNDA DEVOPS SRE BATCH completed by Balaram Kishore 🚀</h1>
+    <h1>🚀 Welcome to KK FUNDA DEVSECOPS SRE BATCH completed by Balaram Kishore 🚀</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
